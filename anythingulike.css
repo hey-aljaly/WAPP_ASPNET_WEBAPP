@@ -20,7 +20,8 @@
     width: 450px;
     float: left;
     height: 450px;
-    background-color: #FFCC66;
+    background-image: image('tung.jpeg');
+    background-size: auto;
     border-radius: 25px; /* Fixed typo: bocdec-cadius */
     margin-right: 0; /* Prevent gap between floated elements */
 }
@@ -29,6 +30,8 @@
     width: 450px;
     float: right;
     height: 450px;
+    background-image: image('tung.jpeg');
+    background-size: auto;
     background-color: #CC99FF;
     border-radius: 25px; /* Fixed typo: bocder-cadius */
 }

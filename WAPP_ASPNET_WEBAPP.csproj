@@ -134,6 +134,7 @@
         <Content Include="Content\Site.css"/>
         <Content Include="LAB2Q1.html" />
         <Content Include="LAB2Q2.html" />
+        <Content Include="README.md" />
         <Content Include="Scripts\bootstrap.js"/>
         <Content Include="Scripts\bootstrap.min.js"/>
         <None Include="Scripts\jquery-3.3.1.intellisense.js"/>

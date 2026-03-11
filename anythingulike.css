@@ -1,0 +1,34 @@
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden; /* Clearfix for floated children */
+}
+
+#header {
+    height: 100px;
+    width: 900px;
+    background-color: #FF99CC;
+}
+
+#menu {
+    width: 900px;
+    height: 50px;
+    background-color: #CCFF99;
+}
+
+#content1 {
+    width: 450px;
+    float: left;
+    height: 450px;
+    background-color: #FFCC66;
+    border-radius: 25px; /* Fixed typo: bocdec-cadius */
+    margin-right: 0; /* Prevent gap between floated elements */
+}
+
+#content2 {
+    width: 450px;
+    float: right;
+    height: 450px;
+    background-color: #CC99FF;
+    border-radius: 25px; /* Fixed typo: bocder-cadius */
+}
